@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Chicago Transit Map</name>
+		<NetworkLink>
+			<name>Chicago Transit</name>
+			<Link>
+				<href>http://www.google.com/maps/d/kml?forcekml=1&amp;mid=1UZKVxY4StJHkTPuLP-H-QwjZ9Gw&amp;lid=jUarL7a9R-w</href>
+			</Link>
+		</NetworkLink>
+	</Document>
+</kml>
